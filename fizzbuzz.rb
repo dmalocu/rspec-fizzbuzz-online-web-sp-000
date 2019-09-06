@@ -9,4 +9,4 @@ def fizzbuzz(num)
     puts "Not divisible by 3 or 5"
   end
 end
-fizzbuzz(num)
+fizzbuzz(3)
